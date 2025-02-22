@@ -1,6 +1,0 @@
-@CleanArch.API.Calendar_HostAddress = http://localhost:5221
-
-GET {{CleanArch.API.Calendar_HostAddress}}/weatherforecast/
-Accept: application/json
-
-###
