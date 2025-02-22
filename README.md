@@ -5,7 +5,5 @@ CleanArch.API.Calendar
 			Description
 			Calendar (FK)
 		Calendar:
-
-
   
 			Name
