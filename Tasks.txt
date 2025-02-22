@@ -1,0 +1,2 @@
+1 - Criação solution - OK
+2 - Implementar dependências entre os projetos - OK
