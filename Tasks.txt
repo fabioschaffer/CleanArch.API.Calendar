@@ -1,6 +1,6 @@
 - Criação solution								- OK
 - Implementar dependências entre os projetos	- OK
-- Implementar camada Domain						- Em andamento
+- Implementar camada Domain						- OK
 - Implementar camada infrastructure				-
 - Implementar camada Appliction					-
 - Implementar camada API						-
