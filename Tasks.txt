@@ -1,6 +1,7 @@
-- Criação solution								- OK
-- Implementar dependências entre os projetos	- OK
-- Implementar camada Domain						- OK
-- Implementar camada infrastructure				-
-- Implementar camada Appliction					-
-- Implementar camada API						-
+- Criação solution										- OK
+- Implementar dependências entre os projetos			- OK
+- Implementar camada Domain								- OK
+- Implementar camada infrastructure (Infra.Data.csproj)	- OK
+- Implementar camada Appliction							- OK
+- Implementar projeto Infra.IoC							- OK
+- Implementar camada API								-

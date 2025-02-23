@@ -1,9 +1,10 @@
-﻿using System.Globalization;
+﻿using Domain.Entities;
+using System.Globalization;
 
 namespace Domain.Interfaces;
 
 public interface ICalendarRepository {
 
-    Task<Calendar> Create(Calendar calendar);
+    Task<CalendarEntity> Create(CalendarEntity calendar);
 
 }

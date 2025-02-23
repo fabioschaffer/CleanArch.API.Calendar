@@ -2,15 +2,15 @@
 
 namespace Domain.Entities;
 
-public class Calendar : Entity {
+public class CalendarEntity : Entity {
 
     public string Name { get; private set; }
 
-    public Calendar(string name) {
+    public CalendarEntity(string name) {
         ValidateDomain(name);
     }
 
-    public Calendar(int id , string name) {
+    public CalendarEntity(int id , string name) {
         DomainValidationException.When(id < 0, "Invalid Id value.");
         Id = id;
         ValidateDomain(name);
