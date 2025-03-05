@@ -1,5 +1,8 @@
 # CleanArch.API.Calendar  
 
+## Arquitetura 
+Aplicação construida com arquitetura limpa (Clean Architecture). 
+
 ## Entidades  
 ### Event:
 - Title
