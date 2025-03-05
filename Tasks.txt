@@ -4,4 +4,4 @@
 - Implementar camada infrastructure (Infra.Data.csproj)	- OK
 - Implementar camada Appliction							- OK
 - Implementar projeto Infra.IoC							- OK
-- Implementar camada API								-
+- Implementar camada API								- OK
